@@ -6,7 +6,7 @@
     <array>
         <dict>
             <key>URL</key>
-            <string>https://yourdomain.com/path/to/manifest.plist</string>
+            <string>https://github.com/SeventhPain/ios-downlaod-profile/blob/main/DistributionSummary.plist</string>
             <key>DisplayImage</key>
             <key>FullScreen</key>
             <true/>
