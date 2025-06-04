@@ -23,7 +23,7 @@
             <key>PayloadType</key>
             <string>com.apple.webClip.managed</string>
             <key>PayloadUUID</key>
-            <string>RANDOM-UUID-GOES-HERE</string>
+            <string>1B79F90E-5FE7-4630-BEA4-BE772DCB0780</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
         </dict>
